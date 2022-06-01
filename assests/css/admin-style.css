@@ -1,0 +1,24 @@
+.nw_sh_main{
+	width: 70%;
+	margin-top:60px;
+}
+.nw_sh_main label{
+	font-size: 20px;
+	font-weight: 500;
+}
+#news-sh{
+	width: 300px;
+	margin-left: 10px;
+	padding: 10px;
+}
+.save_setting{
+	display: block;
+	width: 150px;
+	font-size: 22px;
+	border-radius: 8px;
+	border: 1px solid #244ba8;
+	background-color: #244ba8;
+	color: #fff;
+	margin: 50px 0px 0px 0px;
+	padding: 9px;
+}
